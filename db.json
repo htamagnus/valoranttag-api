@@ -1,0 +1,28 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Reyna",
+            "capa": "/personagens/Reyna.jpg",
+            "link": "https://www.youtube.com/embed/IzsQNYrq9AM"
+        },
+        {
+            "id": 2,
+            "titulo": "Viper",
+            "capa": "/personagens/Viper.jpg",
+            "link": "https://www.youtube.com/embed/9dOSy0EhLfQ"
+        },
+        {
+            "id": 3,
+            "titulo": "Sage",
+            "capa": "/personagens/Sage.jpg",
+            "link": "https://www.youtube.com/embed/1aRwM_QsqQI"
+        },
+        {
+            "id": 4,
+            "titulo": "Fade",
+            "capa": "/personagens/Fade.jpg",
+            "link": "https://www.youtube.com/embed/UMzKD73cs3c"
+        }
+    ]
+}
